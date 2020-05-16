@@ -4,6 +4,7 @@ const FILES_TO_CACHE = [
   "/assets/js/loadPosts.js",
   "/manifest.webmanifest",
   "/favicon.ico",
+  "/app.js",
   "/service-worker.js",
   "/assets/images/icons/icon-72x72.png",
   "/assets/images/icons/icon-96x96.png",
